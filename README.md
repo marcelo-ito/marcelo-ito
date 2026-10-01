@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o GremlinX!</h1>
+<h1 align="center">👋 Olá, eu sou o marcelo-ito!</h1>
 
 <p align="center">
   🚀 QA Professional | 💻 Fullstack Developer
@@ -27,8 +27,8 @@
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GremlinX&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GremlinX&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-ito&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-ito&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 
 💼 LinkedIn: [Marcelo Ito](https://www.linkedin.com/in/marcelo-ito-096460144/)
 
-🌐 Portfólio: [Marcelo Ito](https://gremlinx.github.io)
+🌐 Portfólio: [Marcelo Ito](https://marcelo-ito.github.io)
 
 ---
 
